@@ -5,5 +5,7 @@ class ab
   fun()
   {
     return "hello world";
+    c=c+1;
   }
+  print("hello");
 }
